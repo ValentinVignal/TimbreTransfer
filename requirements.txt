@@ -72,7 +72,7 @@ pydot_ng==2.0.0
 pydotplus==2.0.2
 pydub==0.24.1
 pyfakefs==4.1.0
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 pymongocrypt==1.0.1
 pyOpenSSL==19.1.0
