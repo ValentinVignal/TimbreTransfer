@@ -39,7 +39,7 @@ h5==0.0.1
 hypothesis==5.23.7
 importlib_resources==3.0.0
 ipaddr==2.2.0
-ipython==7.16.1
+ipython==7.16.3
 ipywidgets==7.5.1
 jupyter_client==6.1.6
 keyring==21.2.1
